@@ -1,0 +1,9 @@
+{
+  "urlRandomness": "zv-feu",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false,
+  "scheme": null
+}
